@@ -1,7 +1,7 @@
 AOS.init();
 
-let timeTimeOut = 3500;
-let time = 300;
+let timeTimeOut = 1;
+let time = 1;
 
 const animation_1 = () => {
    document.querySelector("#intro_logo").classList.add("d-none");
